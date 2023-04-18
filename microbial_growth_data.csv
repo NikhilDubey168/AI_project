@@ -1,0 +1,6 @@
+temprature,ph,nutrient_availability,growth_rate
+25,7,0.1,0.05
+30,6,0.2,0.08
+28,7,0.15,0.07
+32,6,0.3,0.1
+27,7,0.25,0.07
